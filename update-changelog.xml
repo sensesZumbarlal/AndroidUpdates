@@ -2,7 +2,7 @@
     <update>
         <latestVersion>1.2.2</latestVersion>
         <latestVersionCode>10</latestVersionCode>
-        <url>https://github.com/sensesZumbarlal/AndroidUpdates/raw/master/AndroidUpdate.apk</url>
+        <url>https://raw.githubusercontent.com/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk</url>
         <releaseNotes>
             - First evolution
             - Second evolution
