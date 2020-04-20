@@ -1,9 +1,11 @@
 {
   "latestVersion": "TEST BUILD",
-  "latestVersionCode": "16",
+  "latestVersionCode": "17",
   "url": "https://raw.githubusercontent.com/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
   "releaseNotes": [
-    "New Maths Tool Added",
-    "- Compass tool added"
+    "New Maths tools added",
+    "-Compass tool added",
+    "-Ruler tool added",
+    "-Protractor tool added"
   ]
 }
