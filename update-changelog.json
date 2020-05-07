@@ -10,6 +10,7 @@
     "-Set square 30/60",
     "-Set square 45",
     "*Insert PDF",
-    "*Bug fixes"
+    "*Bug fixes",
+    "*Fixed updater issue"
   ]
 }
