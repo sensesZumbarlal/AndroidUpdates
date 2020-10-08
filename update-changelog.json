@@ -1,5 +1,6 @@
 {
   "latestVersion": "TEST BUILD 19",
+  "buildType" : "debug",
   "latestVersionCode": "19",
   "url": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
   "releaseNotes": [
