@@ -1,8 +1,8 @@
 {
   "isDebug" : true,
   "testingVersionCode": "19",
-  "testUrl": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
-  "testUrl2": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
+  "testUrl": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate2.apk",
+  "testUrl2": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate2.apk",
   "testReleaseNotes": [
     "*New Maths tools added",
     "-Compass tool added",
@@ -17,8 +17,8 @@
 
   "isRelease" : true,
   "releaseVersionCode": "3",
-  "releaseUrl": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
-  "releaseUrl2": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate.apk",
+  "releaseUrl": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate2.apk",
+  "releaseUrl2": "https://media.githubusercontent.com/media/sensesZumbarlal/AndroidUpdates/master/AndroidUpdate2.apk",
   "releaseNotes": [
     "*New Maths tools added",
     "-Compass tool added",
